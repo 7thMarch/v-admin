@@ -1,0 +1,4 @@
+.wrangler
+dist
+prisma
+!prisma/schema.prisma
